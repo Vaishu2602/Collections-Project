@@ -24,6 +24,8 @@ public class DemoMap {
 	for (Integer x : keySet) {
 		System.out.println(x);
 	}
+	System.out.println("MAp Done");
+	System.out.println("Project Completed");
 	Collection<String> values = m.values();
 	System.out.println(values);
 	for (String y : values) {
