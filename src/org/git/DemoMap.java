@@ -26,6 +26,8 @@ public class DemoMap {
 	}
 	String string = m.get(30);
 	System.out.println(string);
+	System.out.println("MAp Done");
+	System.out.println("Project Completed");
 	Collection<String> values = m.values();
 	System.out.println(values);
 	for (String y : values) {
